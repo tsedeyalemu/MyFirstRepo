@@ -1,2 +1,2 @@
-what i have learned rpm this course
+What I have learned from this course
 in this course i've learned how to use github to host repositories and git to control the hosted repositories(by going back to previous version, commiting change, etc...)
